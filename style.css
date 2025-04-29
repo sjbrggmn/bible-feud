@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+#game-container {
+    margin-top: 20px;
+}
+
+
+.team-scores {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.team-scores div {
+    background: #eef;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+#strikes {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.team {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 150px;
+}
+.strikes {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    color: red;
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Name a man from the Bible who was known for his strength.",
+        "answers": [
+            {"text": "Samson", "points": 45},
+            {"text": "David", "points": 25},
+            {"text": "Goliath", "points": 15},
+            {"text": "Saul", "points": 10},
+            {"text": "Solomon", "points": 5}
+        ]
+    }
+]
